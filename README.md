@@ -23,6 +23,8 @@ npm install
 
 ```
 
+Run [Springboot-Rest-Example](https://github.com/sohailnasim1/Springboot-Rest-Example) project first
+
 ## Available Scripts
 
 In the project directory, you can run:
