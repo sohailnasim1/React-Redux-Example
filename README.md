@@ -18,6 +18,7 @@ or download the repository zip file and unzip it to local folder.
 Run following command to install npm packages:
 
 ```
+cd React-Redux-Example
 npm install
 
 ```
