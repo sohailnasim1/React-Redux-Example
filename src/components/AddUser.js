@@ -5,7 +5,7 @@
 import React, { Component } from 'react'
 import TextInput from './commons/InputText';
 import { connect } from 'react-redux';
-import { addUser, clearErrors } from '../actions/actions';
+import { addUser } from '../actions/actions';
 import PropTypes from 'prop-types';
 
 export class AddUser extends Component {
@@ -163,8 +163,7 @@ const mapStateToProps = state=> (
 );
 
 AddUser.propTypes = {
-    addUser: PropTypes.func.isRequired,
-    clearErrors: PropTypes.func.isRequired
+    addUser: PropTypes.func.isRequired
 };
 
-export default connect(mapStateToProps, {addUser, clearErrors})(AddUser);
+export default connect(mapStateToProps, { addUser })(AddUser);
