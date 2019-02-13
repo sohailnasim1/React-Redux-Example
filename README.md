@@ -9,7 +9,7 @@ Clone and run [Springboot-Rest-Example](https://github.com/sohailnasim1/Springbo
  from Git Bash
 
 ```
-clone https://github.com/sohailnasim1/React-Redux-Example
+git clone https://github.com/sohailnasim1/React-Redux-Example
  
 ```
 
