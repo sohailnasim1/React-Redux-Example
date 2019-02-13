@@ -84,7 +84,7 @@ export class UpdateUser extends Component {
   
     return (
         <div className="card mb-3">
-        <div className = "card-header">Edit User</div>
+        <div className = "card-header">Update User</div>
         <div className="card-body">
             <form onSubmit={this.onSubmit}>
                 <TextInput

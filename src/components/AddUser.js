@@ -90,7 +90,7 @@ export class AddUser extends Component {
       const { username, password, firstName, lastName, emailAddress, error, processingError } = this.state;
       return (
         <div className="card mb-3">
-        <div className = "card-header">Edit User</div>
+        <div className = "card-header">Add User</div>
         <div className="card-body">
             <form onSubmit={this.onSubmit}>
                 <TextInput
