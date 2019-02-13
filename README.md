@@ -1,7 +1,7 @@
 # React example that uses Springboot Restful microservices 
 Contributor: **Sohail Nasim**
 
-Clone [Springboot-Rest-Example](https://github.com/sohailnasim1/Springboot-Rest-Example)
+Clone and run [Springboot-Rest-Example](https://github.com/sohailnasim1/Springboot-Rest-Example)
 
 ## How to run it
 1. Make sure you have [Node.js](https://nodejs.org/en/) installed.
